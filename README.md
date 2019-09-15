@@ -1,5 +1,7 @@
 # Docker images for Microsoft Teams development using Node.js
 
+![VSCode Development Container](devcontainer.jpeg)
+
 ## Usage
 
 ### VS Code
